@@ -74,7 +74,6 @@ void Error_Handler(void);
 #define Motor_EN_06_GPIO_Port GPIOB
 #define Motor_DIR_Pin GPIO_PIN_7
 #define Motor_DIR_GPIO_Port GPIOB
-
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
